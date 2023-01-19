@@ -1,3 +1,5 @@
 .venv
 bart0_collapsed.json
 output.json
+*.json
+*.jsonl
